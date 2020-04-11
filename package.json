@@ -1,0 +1,14 @@
+{
+  "name": "client.covid19.tracker",
+  "version": "1.0.0",
+  "description": "This is the client repository for the covid data tracket project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Covid"
+  ],
+  "author": "Tianjie Shen",
+  "license": "MIT"
+}
